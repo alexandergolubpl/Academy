@@ -10,7 +10,7 @@ namespace AlexDoveTools
             Vector3 v3 = t.position;
             v3.x = (float) System.Math.Round(v3.x, roundFactor);
             v3.y = (float) System.Math.Round(v3.y, roundFactor);
-            v3.z = (float) System.Math.Round(v3.y, roundFactor);
+            v3.z = (float) System.Math.Round(v3.z, roundFactor);
             t.position = v3;
         }
     }
