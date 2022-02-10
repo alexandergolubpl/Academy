@@ -16,7 +16,7 @@ MonoBehaviour:
   swordName: BastardNew
   decription: bla1
   prefab: {fileID: -927199367670048503, guid: 90c25ff0db82bf64cbc6b8e405018824, type: 3}
-  icon: {fileID: 21300000, guid: d57a9a309a0244671b6aff51d5ef5910, type: 3}
+  icon: {fileID: 21300000, guid: dce552b2c8025d145a2f62177ef21e0e, type: 3}
   cost: 15
   damage: 50
-  rotationSpeed: 82
+  rotationSpeed: 90

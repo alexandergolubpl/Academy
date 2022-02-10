@@ -16,7 +16,7 @@ MonoBehaviour:
   swordName: Sabre
   decription: bla2
   prefab: {fileID: -927199367670048503, guid: a79a4b1e85d48274ba1c146f69249f19, type: 3}
-  icon: {fileID: 21300000, guid: 23c8e4fcb6932454fb19a36e497b24ee, type: 3}
+  icon: {fileID: 21300000, guid: 2d7ee5f4fb76eeb4bb9f7c126b4e2cb2, type: 3}
   cost: 50
   damage: 80
-  rotationSpeed: 72
+  rotationSpeed: 90
