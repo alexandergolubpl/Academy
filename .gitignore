@@ -1,5 +1,9 @@
 /Library/*
 /Logs/*
-/Temp//
-/obj/Debug//
+/Temp/
+/obj/Debug/
 /.vs/*
+/.vs/
+/obj/
+/Logs/
+/Library/
